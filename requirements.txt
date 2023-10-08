@@ -1,4 +1,5 @@
 numpy
-matplotlib.pyplot
+matplotlib
 pandas 
 seaborn 
+tqdm
